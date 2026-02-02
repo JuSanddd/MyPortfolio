@@ -2,22 +2,22 @@ import React from 'react';
 
 const services = [
   {
-    title: "UX/UI DESIGN",
+    title: "UX/UI Design",
     icon: "/services/ux.png",
     items: ["User personas and paths", "User testing & evaluations", "Wireframes and prototypes", "Design systems"]
   },
   {
-    title: "GRAPHIC DESIGN",
+    title: "Graphic Design",
     icon: "/services/gd.png",
     items: ["Visual identities & branding", "Logo design", "Print and digital layouts"]
   },
   {
-    title: "ILLUSTRATION",
+    title: "Illustration",
     icon: "/services/illu.png",
     items: ["Editorial illustrations", "Campaign illustrations", "Infographics", "Animated assets"]
   },
   {
-    title: "MOTION DESIGN",
+    title: "Motion Design",
     icon: "/services/md.png",
     items: ["2D animations", "Explainer videos", "Motion adverts", "Logo reveals"]
   }
